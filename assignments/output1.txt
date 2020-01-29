@@ -1,0 +1,276 @@
+data/:
+total 32
+drwxr-xr-x 4 vinaykanth vinaykanth 4096 Jan 29 20:22 dummy
+drwxr-xr-x 2 vinaykanth vinaykanth 4096 Jan 29 20:22 dumps
+drwxr-xr-x 5 vinaykanth vinaykanth 4096 Jan 29 20:22 food
+drwxr-xr-x 2 vinaykanth vinaykanth 4096 Jan 29 20:22 junk
+drwxr-xr-x 2 vinaykanth vinaykanth 4096 Jan 29 20:22 lists
+drwxr-xr-x 4 vinaykanth vinaykanth 4096 Jan 29 20:22 logs
+drwxr-xr-x 2 vinaykanth vinaykanth 4096 Jan 29 20:22 numbers
+drwxr-xr-x 6 vinaykanth vinaykanth 4096 Jan 29 20:22 superheros
+
+data/dummy:
+total 8
+drwxr-xr-x 5 vinaykanth vinaykanth 4096 Jan 29 20:22 course
+drwxr-xr-x 2 vinaykanth vinaykanth 4096 Jan 29 20:22 json
+
+data/dummy/course:
+total 12
+drwxr-xr-x 2 vinaykanth vinaykanth 4096 Jan 29 20:22 all
+drwxr-xr-x 8 vinaykanth vinaykanth 4096 Jan 29 20:22 week_1
+drwxr-xr-x 7 vinaykanth vinaykanth 4096 Jan 29 20:22 week_2
+
+data/dummy/course/all:
+total 0
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 overall.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w1_d1_s1.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w1_d1_s2.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w1_d2_s1.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w1_d2_s2.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w1_d3_s1.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w1_d3_s2.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w1_d4_s1.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w1_d4_s2.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w1_d5_s1.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w1_d5_s2.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w2_d1_s1.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w2_d1_s2.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w2_d2_s1.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w2_d2_s2.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w2_d4_s1.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w2_d4_s2.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w2_d5_s1.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w2_d5_s2.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w3_d3_s1.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w3_d3_s2.txt
+
+data/dummy/course/week_1:
+total 20
+drwxr-xr-x 2 vinaykanth vinaykanth 4096 Jan 29 20:22 day_1
+drwxr-xr-x 2 vinaykanth vinaykanth 4096 Jan 29 20:22 day_2
+drwxr-xr-x 2 vinaykanth vinaykanth 4096 Jan 29 20:22 day_3
+drwxr-xr-x 2 vinaykanth vinaykanth 4096 Jan 29 20:22 day_4
+drwxr-xr-x 2 vinaykanth vinaykanth 4096 Jan 29 20:22 day_5
+
+data/dummy/course/week_1/day_1:
+total 0
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w1_d1_s1.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w1_d1_s2.txt
+
+data/dummy/course/week_1/day_2:
+total 0
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w1_d2_s1.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w1_d2_s2.txt
+
+data/dummy/course/week_1/day_3:
+total 0
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w1_d3_s1.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w1_d3_s2.txt
+
+data/dummy/course/week_1/day_4:
+total 0
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w1_d4_s1.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w1_d4_s2.txt
+
+data/dummy/course/week_1/day_5:
+total 0
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w1_d5_s1.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w1_d5_s2.txt
+
+data/dummy/course/week_2:
+total 20
+drwxr-xr-x 2 vinaykanth vinaykanth 4096 Jan 29 20:22 day_1
+drwxr-xr-x 2 vinaykanth vinaykanth 4096 Jan 29 20:22 day_2
+drwxr-xr-x 2 vinaykanth vinaykanth 4096 Jan 29 20:22 day_3
+drwxr-xr-x 2 vinaykanth vinaykanth 4096 Jan 29 20:22 day-4
+drwxr-xr-x 2 vinaykanth vinaykanth 4096 Jan 29 20:22 day_5
+
+data/dummy/course/week_2/day_1:
+total 0
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w2_d1_s1.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w2_d1_s2.txt
+
+data/dummy/course/week_2/day_2:
+total 0
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w2_d2_s1.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w2_d2_s2.txt
+
+data/dummy/course/week_2/day_3:
+total 0
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w3_d3_s1.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w3_d3_s2.txt
+
+data/dummy/course/week_2/day-4:
+total 0
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w2_d4_s1.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w2_d4_s2.txt
+
+data/dummy/course/week_2/day_5:
+total 0
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w2_d5_s1.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 w2_d5_s2.txt
+
+data/dummy/json:
+total 492
+-rw-r--r-- 1 vinaykanth vinaykanth  80747 Jan 29 20:22 cars_mileage.json
+-rw-r--r-- 1 vinaykanth vinaykanth 112567 Jan 29 20:22 company_valuations.json
+-rw-r--r-- 1 vinaykanth vinaykanth  98599 Jan 29 20:22 employee_salaries.json
+-rw-r--r-- 1 vinaykanth vinaykanth 103532 Jan 29 20:22 movies_collections.json
+-rw-r--r-- 1 vinaykanth vinaykanth  95889 Jan 29 20:22 student_marks.json
+
+data/dumps:
+total 0
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2014.dump
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2015.dump
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2016.dump
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2018.dump
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2019.dump
+
+data/food:
+total 12
+drwxr-xr-x 2 vinaykanth vinaykanth 4096 Jan 29 20:22 fruits
+drwxr-xr-x 2 vinaykanth vinaykanth 4096 Jan 29 20:22 meats
+drwxr-xr-x 2 vinaykanth vinaykanth 4096 Jan 29 20:22 vegetables
+
+data/food/fruits:
+total 0
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 fruit_apple.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 fruit_banana.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 fruit_grapes.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 fruit_mango.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 fruit_orange.txt
+
+data/food/meats:
+total 0
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 meat_chicken.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 meat_eggs.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 meat_fish.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 meat_mutton.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 meat_prawns.txt
+
+data/food/vegetables:
+total 0
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 vegetable_beans.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 vegetable_beetroot.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 vegetable_brinjal.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 vegetable_carrot.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 vegetable_potato.txt
+
+data/junk:
+total 124
+-rw-r--r-- 1 vinaykanth vinaykanth 16370 Jan 29 20:22 city_names_orders_rand.csv
+-rw-r--r-- 1 vinaykanth vinaykanth  4194 Jan 29 20:22 emails_rand.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 69347 Jan 29 20:22 marks_rand_2000.csv
+-rw-r--r-- 1 vinaykanth vinaykanth  1360 Jan 29 20:22 names_100.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 25000 Jan 29 20:22 random_ids.txt
+
+data/lists:
+total 628
+-rw-r--r-- 1 vinaykanth vinaykanth 391996 Jan 29 20:22 colornames.csv
+-rw-r--r-- 1 vinaykanth vinaykanth  83017 Jan 29 20:22 common_passwords.txt
+-rw-r--r-- 1 vinaykanth vinaykanth   3670 Jan 29 20:22 countries.csv
+-rw-r--r-- 1 vinaykanth vinaykanth   7368 Jan 29 20:22 currency.csv
+-rw-r--r-- 1 vinaykanth vinaykanth 100507 Jan 29 20:22 github_languages.yml
+-rw-r--r-- 1 vinaykanth vinaykanth   8012 Jan 29 20:22 language.csv
+-rw-r--r-- 1 vinaykanth vinaykanth  15701 Jan 29 20:22 locales.json
+-rw-r--r-- 1 vinaykanth vinaykanth  23312 Jan 29 20:22 tld.txt
+
+data/logs:
+total 8
+drwxr-xr-x 2 vinaykanth vinaykanth 4096 Jan 29 20:22 access
+drwxr-xr-x 2 vinaykanth vinaykanth 4096 Jan 29 20:22 error
+
+data/logs/access:
+total 0
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2019-01-access.log
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2019-02-access.log
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2019-03-access.log
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2019-04-access.log
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2019-05-access.log
+
+data/logs/error:
+total 0
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2018-01-error.log
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2018-02-error.log
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2018-03-error.log
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2018-04-error.log
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2018-05-error.log
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2018-06-error.log
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2018-07-error.log
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2018-08-error.log
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2018-09-error.log
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2018-10-error.log
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2018-11-error.log
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2018-12-error.log
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2019-01-error.log
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2019-02-error.log
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2019-03-error.log
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2019-04-error.log
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 2019-05-error.log
+
+data/numbers:
+total 36
+-rw-r--r-- 1 vinaykanth vinaykanth 2 Jan 29 20:22 even_2.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 2 Jan 29 20:22 even_4.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 2 Jan 29 20:22 even_6.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 2 Jan 29 20:22 even_8.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 2 Jan 29 20:22 odd_1.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 2 Jan 29 20:22 odd_3.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 2 Jan 29 20:22 odd_5.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 2 Jan 29 20:22 odd_7.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 2 Jan 29 20:22 odd_9.txt
+
+data/superheros:
+total 16
+drwxr-xr-x 2 vinaykanth vinaykanth 4096 Jan 29 20:22 avengers
+drwxr-xr-x 2 vinaykanth vinaykanth 4096 Jan 29 20:22 guardians
+drwxr-xr-x 2 vinaykanth vinaykanth 4096 Jan 29 20:22 justice_league
+drwxr-xr-x 2 vinaykanth vinaykanth 4096 Jan 29 20:22 original
+
+data/superheros/avengers:
+total 0
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 ant-man.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 black_panther.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 black_widow.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 captain_america.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 captain_marvel.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 doctor_strange.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 drax.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 falcon.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 gamora.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 groot.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 hawkeye.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 hulk.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 iron_man.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 mantis.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 rocket_racoon.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 spider-man.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 star-lord.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 thor.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 wasp.txt
+
+data/superheros/guardians:
+total 0
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 drax.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 gamora.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 groot.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 mantis.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 rocket_racoon.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 star-lord.txt
+
+data/superheros/justice_league:
+total 0
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 aquaman.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 batman.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 flash.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 green_lantern.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 martin_manhunter.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 superman.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 wonder_woman.txt
+
+data/superheros/original:
+total 0
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 barry_allen.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 bruce_banner.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 bruce_wayne.txt
+-rw-r--r-- 1 vinaykanth vinaykanth 0 Jan 29 20:22 tony_stark.txt
